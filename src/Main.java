@@ -18,6 +18,10 @@ with fuel and different constructors
         anywareTank.printPosition();
         customTank.goForward(201);
         customTank.printPosition();
+        justTank.goForward(10);
+        justTank.printPosition();
+        anywareTank.goForward(100);
+        anywareTank.printPosition();
 
 /*
 This fragment of code has to output
